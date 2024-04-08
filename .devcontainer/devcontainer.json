@@ -1,11 +1,11 @@
 {
-    // Configuració del codespace per "La dansa dels testos"
+    // Configuració d'un codespace demo pel curs de VSC del TAV
     // Fitxer amb les intruccions per crear el container i el directori de treball
     "build": {
         "dockerfile": "./Dockerfile",
         "context": "."
     },
-    "name": "Codespace per La dansa dels testos - Python",
+    "name": "Codespace demo curs VSC - Python",
     // Configure tool-specific properties.
     "customizations": {
         "vscode": {
